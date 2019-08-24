@@ -1,3 +1,12 @@
+html {
+    position: relative; 
+    min-height: 100%;
+}
+
+body{
+	font-size: 14px;
+}
+
 footer {
     width: 100%;
     bottom: 0;
@@ -6,4 +15,11 @@ footer {
     text-align: center;
     color: white;
     padding: 10px;
+}
+
+p {
+	margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
 }
