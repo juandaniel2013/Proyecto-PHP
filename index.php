@@ -6,7 +6,6 @@
 	</head>
 	<body>
 		<?php include 'navegacion.php';?>
-
 		<script src="app.js"></script>	
 		<?php include 'pie.php';?>
 	</body>
