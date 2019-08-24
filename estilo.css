@@ -3,8 +3,8 @@ html {
     min-height: 100%;
 }
 
-body{
-	font-size: 14px;
+body {
+    font-size: 14px;
 }
 
 footer {
@@ -18,7 +18,7 @@ footer {
 }
 
 p {
-	margin-top: 0px;
+    margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 10px;
     margin-left: 0px;
